@@ -1,0 +1,4 @@
+1. Download the pyinstaller module
+2. Open a terminal in the script directory
+3. Run 'pyinstalle
+r --onefile --windowed frontend.py'
